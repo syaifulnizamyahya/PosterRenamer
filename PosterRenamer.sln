@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosterRenamer", "PosterRenamer\PosterRenamer.csproj", "{EB1CE6CD-652B-4D3E-96E2-B98950A3362F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1CE6CD-652B-4D3E-96E2-B98950A3362F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1CE6CD-652B-4D3E-96E2-B98950A3362F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1CE6CD-652B-4D3E-96E2-B98950A3362F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1CE6CD-652B-4D3E-96E2-B98950A3362F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CACF9DE-E3BA-44BF-A464-67A29F862FF7}
+	EndGlobalSection
+EndGlobal
